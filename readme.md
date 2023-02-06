@@ -1,30 +1,22 @@
-# Xverse Wallet Roadmap 2022
+# Xverse Wallet Roadmap 2023
 
-## Q1 2022
-- Improved NFT support
-    - Improved UI/UX
-    - Detailed NFT data
-    - Send/receive NFTs
-- Multiple account support
-- Web-based Xverse pool Stacking
-- In-app dapp browser
+## Q1 2023
+- BNS name registrations in-app
+- BTC payments using .BTC names
+- BTC transaction request support
+- Stacks 2.1 upgrade for Xverse pool
 
-## Q2 2022
-- Full Bitcoin NFT support
-- Stacking for other PoX tokens (CityCoins)
-- Basic BNS decentralized identity support
-- Cross-device authentication and transaction signing via QR code
-- Purchase BTC and STX in-app
+## Q2 2023
+- Hardware wallet support
+- Subnet support
+- MultiSafe integration
+- xBTC integration
 
-## Q3 2022
-- Web browser extension wallet
-- Send/receive tokens using BNS decentralized identity
+## Q3 2023
+- sBTC integration
+- Smart contract wallets and account abstraction
+- Nakamoto and sBTC signing upgrade for Xverse pool
+
+## Q4 2023
 - In-app swaps and DEX integration
-- Web-based Bitcoin NFT viewer
-
-## Q4 2022
-- Lightning network integration
-- Bitcoin-only NFT minting/purchase
-- Atomic Bitcoin to Stacks asset swaps
-- Support for Hyperchains
-- Native mobile auth and SDK
+- Fast BTC payments via Lightning and sBTC
